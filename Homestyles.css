@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Handjet:wght@600&family=Poppins:wght@200;400&display=swap');
+h1 {font-family: 'Handjet', cursive;
+letter-spacing: 3px;}
+body {font-family: 'Poppins', sans-serif;
+font-variant: normal;}
+li > ul {background-color: pink;
+list-style-type: circle;}
+#menu {font-weight: 900;
+}
+a:link {color: hotpink}
+a:visited {color: #9D7499}
+a:hover {color: pink}
+.cursive {font-family: 'Caveat', cursive;
+font-size: x-large;}
+ul {list-style-type: square;}
+p {margin: 10px}
+img {margin: 10px}
